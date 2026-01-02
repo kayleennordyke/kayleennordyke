@@ -3,7 +3,7 @@
 -🌟 Currently working on my MSSE portfolio  
 -🚀 Proficient in Python, C#, and C++  
 -📚 Learning more about ML, algorithms, and molecular dynamics
--🐈 I have an orange cat named Zinc!
+-🐈 I have an orange cat named Zinc!  
 
 
 <!---
